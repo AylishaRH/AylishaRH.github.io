@@ -11027,3 +11027,11 @@ p {
 .address strong {
   font-size: 1.2rem;
 }
+/* Custom heading colors */
+.site-heading-upper {
+  color: #d4af37; /* gold */
+}
+
+.site-heading-lower {
+  color: #ffffff; /* white */
+}
